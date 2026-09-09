@@ -38,7 +38,7 @@ def spark():
         SparkSession.builder
         .master("local[2]")
         .appName("NYC Taxi Pipeline Tests")
-        .getOrCreate()
+        .getOrCreate( )
     )
 
     yield spark_session
