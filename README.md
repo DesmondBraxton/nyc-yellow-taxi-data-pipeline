@@ -1,7 +1,7 @@
 # nyc-yellow-taxi-data-pipeline
 Data engineering pipeline for NYC Yellow Taxi data using PySpark, AWS S3, Athena, Redshift, and SQL.
 
-# NYC Yellow Taxi Data Engineering Pipeline
+# NYC Yellow Taxi Data Engineering Pipeline.
 
 An end-to-end data engineering project that processes NYC TLC Yellow Taxi trip data using PySpark and an AWS-oriented architecture.
 
