@@ -1,3 +1,5 @@
+![NYC Yellow Taxi Data Pipeline Architecture](pipeline_architecture.png)        
+
 # nyc-yellow-taxi-data-pipeline
 Data engineering pipeline for NYC Yellow Taxi data using PySpark, AWS S3, Athena, Redshift, and SQL.
 
