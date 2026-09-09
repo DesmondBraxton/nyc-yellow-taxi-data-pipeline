@@ -1,0 +1,4 @@
+pyspark==3.5.1
+pandas>=2.0.0
+pyarrow>=14.0.0
+pytest>=8.0.0
